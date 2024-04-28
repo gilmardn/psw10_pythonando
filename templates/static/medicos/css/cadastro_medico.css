@@ -1,0 +1,7 @@
+.shadow-main-color1{
+    box-shadow: 1px 1px 5px 1px rgba(2, 122, 114, 0.4);
+}
+
+.shadow-main-color{
+    box-shadow: 1px 1px 5px 1px rgba(0, 204, 190,.4);
+}
